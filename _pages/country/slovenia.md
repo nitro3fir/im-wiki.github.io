@@ -19,12 +19,12 @@ sidebar:
 
 ------ | ------
 Языки | -, [английский]({{site.info__speak_en}}) (-%)
-[ВВП]({{site.info__vvp}}) | - (- место)
-[ВВП на душу]({{site.info__vvp_on_unit}}) | - (- место)
-[ИЧР]({{site.info__ichr}}) | - (- место)
-[Коррупция]({{site.info__corruption}}) | - (- место)
-[Убийств на 100тыс]({{site.info__kill_per_unit}}) | - (- место)
-[Ср. прод. жизни]({{site.info__time_life}}) | - (- место)
+[ВВП]({site.info__vvp}) | $52,9 млрд (87 место) (2020)
+[ВВП на душу]({site.info__vvp_on_unit}) | $41194 (33 место) (2019)
+[ИЧР]({site.info__ichr}) | 0.917 (22 место) (2019)
+[Коррупция]({site.info__corruption}) | 57 (41 место) (2021)
+[Убийств на 100тыс]({site.info__kill_per_unit}) | 0,48 (8 место) (2016, UNSDC, CTS, SDG)
+[Ср. прод. жизни]({site.info__time_life}) | 81.3 (27 место) (2019, ВОЗ)
 
 ## Въезд
 
